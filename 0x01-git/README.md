@@ -1,2 +1,2 @@
 My second commit
-My alx course
+My alx course program
